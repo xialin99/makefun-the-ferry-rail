@@ -1,4 +1,4 @@
-# The Ferry Rail
+# 渡轮栏杆 / The Ferry Rail
 
 [中文](#中文) · [English](#english)
 
@@ -6,7 +6,7 @@
 
 一篇写放松与惊叹的英文微型散文，场景是一趟渡轮航程。
 
-[直接阅读作品](entry.txt)
+[阅读中文版](entry.zh.txt) · [阅读英文原文](entry.txt)
 
 ### 本地运行
 
@@ -16,7 +16,7 @@
 
 English micro-prose about calm and awe on a ferry crossing.
 
-[Read the piece](entry.txt)
+[English original](entry.txt) · [Simplified Chinese translation](entry.zh.txt)
 
 ### Run locally
 
